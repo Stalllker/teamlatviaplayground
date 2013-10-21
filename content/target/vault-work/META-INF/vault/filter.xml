@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<workspaceFilter version="1.0">
-    <filter root="/apps/nespresso" />
-    <filter root="/content/nespresso" />
-    <filter root="/etc/designs/nespresso" />
-    <filter root="/content/dam/nespresso" />
-</workspaceFilter>
