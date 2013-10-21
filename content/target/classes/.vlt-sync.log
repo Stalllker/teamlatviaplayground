@@ -1,0 +1,18 @@
+17.10.2013 19:52:19 Vault sync service started and observing this directory.
+17.10.2013 19:52:19 Sync root configured with filter C:\Users\juris.brudnis\nespresso\content\src\main\content\META-INF\vault\filter.xml
+17.10.2013 19:52:19 Syncing in C:\Users\juris.brudnis\nespresso\content\src\main\content\jcr_root is enabled by .vlt-sync-config.properties
+17.10.2013 19:52:50 U jcr:///apps/nespresso/components/pages/mainpage/mainpage.jsp
+17.10.2013 19:55:49 U file://C:\Users\juris.brudnis\nespresso\content\src\main\content\jcr_root\apps\nespresso\components\pages\mainpage\mainpage.jsp
+17.10.2013 19:56:02 U file://C:\Users\juris.brudnis\nespresso\content\src\main\content\jcr_root\apps\nespresso\components\pages\mainpage\mainpage.jsp
+18.10.2013 10:02:28 Vault sync service started and observing this directory.
+18.10.2013 10:02:28 Sync root configured with filter C:\Users\juris.brudnis\nespresso\content\src\main\content\META-INF\vault\filter.xml
+18.10.2013 10:02:28 Syncing in C:\Users\juris.brudnis\nespresso\content\src\main\content\jcr_root is enabled by .vlt-sync-config.properties
+18.10.2013 10:20:43 D file://C:\Users\juris.brudnis\nespresso\content\src\main\content\jcr_root\content\nespresso\.vlt
+18.10.2013 10:20:43 D file://C:\Users\juris.brudnis\nespresso\content\src\main\content\jcr_root\content\nespresso/
+18.10.2013 10:21:07 A file://C:\Users\juris.brudnis\nespresso\content\src\main\content\jcr_root\content\nespresso/
+18.10.2013 10:26:05 U jcr:///apps/nespresso/components/pages/mainpage/mainpage.jsp
+18.10.2013 10:28:50 U jcr:///apps/nespresso/components/pages/mainpage/mainpage.jsp
+18.10.2013 10:28:50 A jcr:///apps/nespresso/components/pages/mainpage/mainpage.jsp.base
+18.10.2013 10:28:50 A jcr:///apps/nespresso/components/pages/mainpage/mainpage.jsp.mine
+18.10.2013 10:28:50 A jcr:///apps/nespresso/components/pages/mainpage/mainpage.jsp.theirs
+18.10.2013 10:28:55 U jcr:///apps/nespresso/components/pages/mainpage/mainpage.jsp

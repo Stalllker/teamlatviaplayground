@@ -1,0 +1,4 @@
+com\nespresso\impl\filters\LoggingFilter.class
+com\nespresso\package-info.class
+com\nespresso\HelloService.class
+com\nespresso\impl\HelloServiceImpl.class

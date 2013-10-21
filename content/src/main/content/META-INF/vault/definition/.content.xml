@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:vlt="http://www.day.com/jcr/vault/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:created="{Date}2013-10-17T15:44:29.999+03:00"
+    jcr:createdBy="admin"
+    jcr:description="The raw nespresso demo"
+    jcr:lastModified="{Date}2013-10-17T15:44:29.999+03:00"
+    jcr:lastModifiedBy="admin"
+    jcr:primaryType="vlt:PackageDefinition"
+    buildCount="1"
+    builtWith="Adobe Experience Manager-5.6.1.20130606"
+    fixedBugs=""
+    group="my_packages"
+    lastUnwrapped="{Date}2013-10-17T15:44:29.999+03:00"
+    lastUnwrappedBy="admin"
+    lastWrapped="{Date}2013-10-17T15:44:29.999+03:00"
+    lastWrappedBy="admin"
+    name="NespressoDemo"
+    testedWith=""
+    version="1.0.0">
+    <filter jcr:primaryType="nt:unstructured">
+        <f0
+            jcr:primaryType="nt:unstructured"
+            mode="replace"
+            root="/apps/nespresso"
+            rules="[]"/>
+        <f1
+            jcr:primaryType="nt:unstructured"
+            mode="replace"
+            root="/content/nespresso"
+            rules="[]"/>
+        <f2
+            jcr:primaryType="nt:unstructured"
+            mode="replace"
+            root="/etc/designs/nespresso"
+            rules="[]"/>
+        <f3
+            jcr:primaryType="nt:unstructured"
+            mode="replace"
+            root="/content/dam/nespresso"
+            rules="[]"/>
+    </filter>
+    <thumbnail jcr:primaryType="nt:unstructured">
+        <file/>
+    </thumbnail>
+    <thumbnail.png/>
+</jcr:root>
